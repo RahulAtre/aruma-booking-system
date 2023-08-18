@@ -4,7 +4,7 @@ A hotel management system built using React, Node, and Express, with Fahmi Ahmed
 
 ## Steps to Install Application
 
-In order to install our application, you must follow these steps:
+In order to install the application, you must follow these steps:
 
 1. Ensure that you have installed Node.js (React/Express can be managed by command npm install later),
 and are using VSCode.
