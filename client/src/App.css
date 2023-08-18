@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  z-index: 3;
+  position: sticky;
+  top: 0;
+}
