@@ -10,7 +10,6 @@ import ViewProfile from "./components/pages/settings";
 import Search from "./components/pages/search";
 import SignUp from "./components/pages/signup";
 import Views from "./components/pages/views";
-
 import { useState, createContext, useEffect } from "react";
 
 export const UserContext = createContext({
@@ -35,10 +34,6 @@ function App() {
       setLoggedIn(true);
     }
   }, []);
-
-  // useEffect(() => {
-  //   localStorage.setItem("user", JSON.stringify(user));
-  // }, [user]);
 
   const signOut = () => {
     setUser(null);
