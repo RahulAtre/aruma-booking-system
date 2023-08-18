@@ -1,6 +1,6 @@
 # aruma-booking-system
 
-A hotel management system built using React Node and Express with Fahmi Ahmed & Dana Shayakhmetova
+A hotel management system built using React, Node, and Express, with Fahmi Ahmed & Dana Shayakhmetova
 
 ## Steps to Install Application
 
