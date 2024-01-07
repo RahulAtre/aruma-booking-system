@@ -36,3 +36,9 @@ npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
 10. Write “npm start” in the client terminal to start running the website on your computer. Website should
 be running on localhost:3000.
+
+## Creaters, Designers, Artists, Developers
+
+- Rahul Atre 🤖
+- Dana Shayakhmetova 🚀
+- Fahmi Ahmed 🌉
